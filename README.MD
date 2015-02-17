@@ -1,0 +1,1 @@
+PKGBUILD Safenet Authentication Client for Alladin eToken
